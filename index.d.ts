@@ -1,7 +1,7 @@
 /// <reference types="jquery" />
 
 interface JQuery {
-	telerik_ReportViewer(config: IPrintConfig): void;
+	telerik_ReportViewer(config: IReportViewerConfig): void;
 }
 
 interface IReportViewerConfig {
