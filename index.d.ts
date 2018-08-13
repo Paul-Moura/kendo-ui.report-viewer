@@ -12,5 +12,5 @@ interface IReportViewerConfig {
 
 interface IReportSource {
 	report: string;
-	parameters: Array<any>;
+	parameters: any;
 }
