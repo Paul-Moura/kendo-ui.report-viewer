@@ -1,0 +1,30 @@
+{
+  "name": "kendo-ui.report-viewer",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Paul-Moura/kendo-ui.report-viewer/",
+  "authors": [
+    "Paul Moura <paul@souratech.com>"
+  ],
+  "description": "Type definitions for Telerik's kendo Report Viewer",
+  "keywords": [
+    "telerik",
+    "kendo",
+    "report viewer"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  },
+  "license": "Soura Technology",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Paul-Moura/kendo-ui.report-viewer.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/Paul-Moura/kendo-ui.report-viewer.git",
+    "basePath": "",
+    "files": [
+      "*"
+    ]
+  }
+}
